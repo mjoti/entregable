@@ -1,1 +1,10 @@
+ branchA
+Este es el fichero 1
+
+Información adicional del fichero uno en la rama branchA
+=======
 Este es el fichero uno
+
+
+Información adicional del fichero uno en la rama branchA
+ master
